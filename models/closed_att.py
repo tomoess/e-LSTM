@@ -1,8 +1,4 @@
-# This file contains att2in model
-# Att2in is from Self-critical Sequence Training for Image Captioning
-# https://arxiv.org/abs/1612.00563
-# In this file we only have Att2in2, which is a slightly different version of att2in,
-# in which the img feature embedding and word embedding is the same as what in adaatt.
+
 
 
 from __future__ import absolute_import
